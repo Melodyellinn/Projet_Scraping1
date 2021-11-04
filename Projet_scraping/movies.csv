@@ -1,0 +1,231 @@
+,Films,Année,Directeur,Durée,Genre,Note,Metascore,Votes,Prix
+0,The Shawshank Redemption,1994,Frank Darabont,142,Drama            ,9.3,80.0,2480727,28.34
+1,The Godfather,1972,Francis Ford Coppola,175,"Crime, Drama            ",9.2,100.0,1713388,134.97
+2,The Dark Knight,2008,Christopher Nolan,152,"Action, Crime, Drama            ",9.0,84.0,2435080,534.86
+3,The Godfather: Part II,1974,Francis Ford Coppola,202,"Crime, Drama            ",9.0,90.0,1190161,57.3
+4,12 Angry Men,1957,Sidney Lumet,96,"Crime, Drama            ",9.0,96.0,734230,4.36
+5,The Lord of the Rings: The Return of the King,2003,Peter Jackson,201,"Action, Adventure, Drama            ",8.9,94.0,1718951,377.85
+6,Pulp Fiction,1994,Quentin Tarantino,154,"Crime, Drama            ",8.9,94.0,1920065,107.93
+7,Schindler's List,1993,Steven Spielberg,195,"Biography, Drama, History            ",8.9,94.0,1273515,96.9
+8,Inception,2010,Christopher Nolan,148,"Action, Adventure, Sci-Fi            ",8.8,74.0,2185204,292.58
+9,Fight Club,1999,David Fincher,139,Drama            ,8.8,66.0,1954752,37.03
+10,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,178,"Action, Adventure, Drama            ",8.8,92.0,1740226,315.54
+11,Forrest Gump,1994,Robert Zemeckis,142,"Drama, Romance            ",8.8,82.0,1918121,330.25
+12,"The Good, the Bad and the Ugly",1966,Sergio Leone,178,Western            ,8.8,90.0,721512,6.1
+13,The Lord of the Rings: The Two Towers,2002,Peter Jackson,179,"Action, Adventure, Drama            ",8.7,87.0,1554016,342.55
+14,The Matrix,1999,Lana Wachowski,136,"Action, Sci-Fi            ",8.7,73.0,1772635,171.48
+15,Goodfellas,1990,Martin Scorsese,146,"Biography, Crime, Drama            ",8.7,90.0,1076837,46.84
+16,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,124,"Action, Adventure, Fantasy            ",8.7,82.0,1211382,290.48
+17,One Flew Over the Cuckoo's Nest,1975,Milos Forman,133,Drama            ,8.7,84.0,958396,112.0
+18,Parasite,2019,Bong Joon Ho,132,"Comedy, Drama, Thriller            ",8.6,96.0,676270,53.37
+19,Interstellar,2014,Christopher Nolan,169,"Adventure, Drama, Sci-Fi            ",8.6,74.0,1631810,188.02
+20,City of God,2002,Fernando Meirelles,130,"Crime, Drama            ",8.6,79.0,724865,7.56
+21,Spirited Away,2001,Hayao Miyazaki,125,"Animation, Adventure, Family            ",8.6,96.0,699312,10.06
+22,Saving Private Ryan,1998,Steven Spielberg,169,"Drama, War            ",8.6,91.0,1299828,216.54
+23,The Green Mile,1999,Frank Darabont,189,"Crime, Drama, Fantasy            ",8.6,61.0,1210823,136.8
+24,Life Is Beautiful,1997,Roberto Benigni,116,"Comedy, Drama, Romance            ",8.6,59.0,655757,57.6
+25,Se7en,1995,David Fincher,127,"Crime, Drama, Mystery            ",8.6,65.0,1527203,100.13
+26,The Silence of the Lambs,1991,Jonathan Demme,118,"Crime, Drama, Horror            ",8.6,85.0,1340386,130.74
+27,Star Wars: Episode IV - A New Hope,1977,George Lucas,121,"Action, Adventure, Fantasy            ",8.6,90.0,1283157,322.74
+29,Seven Samurai,1954,Akira Kurosawa,207,"Action, Adventure, Drama            ",8.6,98.0,330526,0.27
+31,Whiplash,2014,Damien Chazelle,106,"Drama, Music            ",8.5,88.0,770009,13.09
+32,The Intouchables,2011,Olivier Nakache,112,"Biography, Comedy, Drama            ",8.5,57.0,801782,13.18
+33,The Prestige,2006,Christopher Nolan,130,"Drama, Mystery, Sci-Fi            ",8.5,66.0,1252211,53.09
+34,The Departed,2006,Martin Scorsese,151,"Crime, Drama, Thriller            ",8.5,85.0,1247602,132.38
+35,The Pianist,2002,Roman Polanski,150,"Biography, Drama, Music            ",8.5,85.0,775761,32.57
+36,Gladiator,2000,Ridley Scott,155,"Action, Adventure, Drama            ",8.5,67.0,1407509,187.71
+37,American History X,1998,Tony Kaye,119,Drama            ,8.5,62.0,1071714,6.72
+38,The Usual Suspects,1995,Bryan Singer,106,"Crime, Drama, Mystery            ",8.5,77.0,1033563,23.34
+39,Léon: The Professional,1994,Luc Besson,110,"Action, Crime, Drama            ",8.5,64.0,1088535,19.5
+40,The Lion King,1994,Roger Allers,88,"Animation, Adventure, Drama            ",8.5,88.0,989092,422.78
+41,Terminator 2: Judgment Day,1991,James Cameron,137,"Action, Sci-Fi            ",8.5,75.0,1038625,204.84
+42,Cinema Paradiso,1988,Giuseppe Tornatore,155,"Drama, Romance            ",8.5,80.0,246863,11.99
+44,Back to the Future,1985,Robert Zemeckis,116,"Adventure, Comedy, Sci-Fi            ",8.5,87.0,1119879,210.61
+45,Once Upon a Time in the West,1968,Sergio Leone,165,Western            ,8.5,80.0,315851,5.32
+46,Psycho,1960,Alfred Hitchcock,109,"Horror, Mystery, Thriller            ",8.5,97.0,634922,32.0
+48,Rear Window,1954,Alfred Hitchcock,112,"Mystery, Thriller            ",8.5,100.0,468018,36.76
+49,Casablanca,1942,Michael Curtiz,102,"Drama, Romance, War            ",8.5,100.0,545364,1.02
+50,The Shawshank Redemption,1994,Frank Darabont,142,Drama            ,9.3,80.0,2480727,28.34
+51,The Godfather,1972,Francis Ford Coppola,175,"Crime, Drama            ",9.2,100.0,1713388,134.97
+52,The Dark Knight,2008,Christopher Nolan,152,"Action, Crime, Drama            ",9.0,84.0,2435080,534.86
+53,The Godfather: Part II,1974,Francis Ford Coppola,202,"Crime, Drama            ",9.0,90.0,1190161,57.3
+54,12 Angry Men,1957,Sidney Lumet,96,"Crime, Drama            ",9.0,96.0,734230,4.36
+55,The Lord of the Rings: The Return of the King,2003,Peter Jackson,201,"Action, Adventure, Drama            ",8.9,94.0,1718951,377.85
+56,Pulp Fiction,1994,Quentin Tarantino,154,"Crime, Drama            ",8.9,94.0,1920065,107.93
+57,Schindler's List,1993,Steven Spielberg,195,"Biography, Drama, History            ",8.9,94.0,1273515,96.9
+58,Inception,2010,Christopher Nolan,148,"Action, Adventure, Sci-Fi            ",8.8,74.0,2185204,292.58
+59,Fight Club,1999,David Fincher,139,Drama            ,8.8,66.0,1954752,37.03
+60,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,178,"Action, Adventure, Drama            ",8.8,92.0,1740226,315.54
+61,Forrest Gump,1994,Robert Zemeckis,142,"Drama, Romance            ",8.8,82.0,1918121,330.25
+62,"The Good, the Bad and the Ugly",1966,Sergio Leone,178,Western            ,8.8,90.0,721512,6.1
+63,The Lord of the Rings: The Two Towers,2002,Peter Jackson,179,"Action, Adventure, Drama            ",8.7,87.0,1554016,342.55
+64,The Matrix,1999,Lana Wachowski,136,"Action, Sci-Fi            ",8.7,73.0,1772635,171.48
+65,Goodfellas,1990,Martin Scorsese,146,"Biography, Crime, Drama            ",8.7,90.0,1076837,46.84
+66,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,124,"Action, Adventure, Fantasy            ",8.7,82.0,1211382,290.48
+67,One Flew Over the Cuckoo's Nest,1975,Milos Forman,133,Drama            ,8.7,84.0,958396,112.0
+68,Parasite,2019,Bong Joon Ho,132,"Comedy, Drama, Thriller            ",8.6,96.0,676270,53.37
+69,Interstellar,2014,Christopher Nolan,169,"Adventure, Drama, Sci-Fi            ",8.6,74.0,1631810,188.02
+70,City of God,2002,Fernando Meirelles,130,"Crime, Drama            ",8.6,79.0,724865,7.56
+71,Spirited Away,2001,Hayao Miyazaki,125,"Animation, Adventure, Family            ",8.6,96.0,699312,10.06
+72,Saving Private Ryan,1998,Steven Spielberg,169,"Drama, War            ",8.6,91.0,1299828,216.54
+73,The Green Mile,1999,Frank Darabont,189,"Crime, Drama, Fantasy            ",8.6,61.0,1210823,136.8
+74,Life Is Beautiful,1997,Roberto Benigni,116,"Comedy, Drama, Romance            ",8.6,59.0,655757,57.6
+75,Se7en,1995,David Fincher,127,"Crime, Drama, Mystery            ",8.6,65.0,1527203,100.13
+76,The Silence of the Lambs,1991,Jonathan Demme,118,"Crime, Drama, Horror            ",8.6,85.0,1340386,130.74
+77,Star Wars: Episode IV - A New Hope,1977,George Lucas,121,"Action, Adventure, Fantasy            ",8.6,90.0,1283157,322.74
+79,Seven Samurai,1954,Akira Kurosawa,207,"Action, Adventure, Drama            ",8.6,98.0,330526,0.27
+81,Whiplash,2014,Damien Chazelle,106,"Drama, Music            ",8.5,88.0,770009,13.09
+82,The Intouchables,2011,Olivier Nakache,112,"Biography, Comedy, Drama            ",8.5,57.0,801782,13.18
+83,The Prestige,2006,Christopher Nolan,130,"Drama, Mystery, Sci-Fi            ",8.5,66.0,1252211,53.09
+84,The Departed,2006,Martin Scorsese,151,"Crime, Drama, Thriller            ",8.5,85.0,1247602,132.38
+85,The Pianist,2002,Roman Polanski,150,"Biography, Drama, Music            ",8.5,85.0,775761,32.57
+86,Gladiator,2000,Ridley Scott,155,"Action, Adventure, Drama            ",8.5,67.0,1407509,187.71
+87,American History X,1998,Tony Kaye,119,Drama            ,8.5,62.0,1071714,6.72
+88,The Usual Suspects,1995,Bryan Singer,106,"Crime, Drama, Mystery            ",8.5,77.0,1033563,23.34
+89,Léon: The Professional,1994,Luc Besson,110,"Action, Crime, Drama            ",8.5,64.0,1088535,19.5
+90,The Lion King,1994,Roger Allers,88,"Animation, Adventure, Drama            ",8.5,88.0,989092,422.78
+91,Terminator 2: Judgment Day,1991,James Cameron,137,"Action, Sci-Fi            ",8.5,75.0,1038625,204.84
+92,Cinema Paradiso,1988,Giuseppe Tornatore,155,"Drama, Romance            ",8.5,80.0,246863,11.99
+94,Back to the Future,1985,Robert Zemeckis,116,"Adventure, Comedy, Sci-Fi            ",8.5,87.0,1119879,210.61
+95,Once Upon a Time in the West,1968,Sergio Leone,165,Western            ,8.5,80.0,315851,5.32
+96,Psycho,1960,Alfred Hitchcock,109,"Horror, Mystery, Thriller            ",8.5,97.0,634922,32.0
+98,Rear Window,1954,Alfred Hitchcock,112,"Mystery, Thriller            ",8.5,100.0,468018,36.76
+99,Casablanca,1942,Michael Curtiz,102,"Drama, Romance, War            ",8.5,100.0,545364,1.02
+100,The Shawshank Redemption,1994,Frank Darabont,142,Drama            ,9.3,80.0,2480727,28.34
+101,The Godfather,1972,Francis Ford Coppola,175,"Crime, Drama            ",9.2,100.0,1713388,134.97
+102,The Dark Knight,2008,Christopher Nolan,152,"Action, Crime, Drama            ",9.0,84.0,2435080,534.86
+103,The Godfather: Part II,1974,Francis Ford Coppola,202,"Crime, Drama            ",9.0,90.0,1190161,57.3
+104,12 Angry Men,1957,Sidney Lumet,96,"Crime, Drama            ",9.0,96.0,734230,4.36
+105,The Lord of the Rings: The Return of the King,2003,Peter Jackson,201,"Action, Adventure, Drama            ",8.9,94.0,1718951,377.85
+106,Pulp Fiction,1994,Quentin Tarantino,154,"Crime, Drama            ",8.9,94.0,1920065,107.93
+107,Schindler's List,1993,Steven Spielberg,195,"Biography, Drama, History            ",8.9,94.0,1273515,96.9
+108,Inception,2010,Christopher Nolan,148,"Action, Adventure, Sci-Fi            ",8.8,74.0,2185204,292.58
+109,Fight Club,1999,David Fincher,139,Drama            ,8.8,66.0,1954752,37.03
+110,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,178,"Action, Adventure, Drama            ",8.8,92.0,1740226,315.54
+111,Forrest Gump,1994,Robert Zemeckis,142,"Drama, Romance            ",8.8,82.0,1918121,330.25
+112,"The Good, the Bad and the Ugly",1966,Sergio Leone,178,Western            ,8.8,90.0,721512,6.1
+113,The Lord of the Rings: The Two Towers,2002,Peter Jackson,179,"Action, Adventure, Drama            ",8.7,87.0,1554016,342.55
+114,The Matrix,1999,Lana Wachowski,136,"Action, Sci-Fi            ",8.7,73.0,1772635,171.48
+115,Goodfellas,1990,Martin Scorsese,146,"Biography, Crime, Drama            ",8.7,90.0,1076837,46.84
+116,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,124,"Action, Adventure, Fantasy            ",8.7,82.0,1211382,290.48
+117,One Flew Over the Cuckoo's Nest,1975,Milos Forman,133,Drama            ,8.7,84.0,958396,112.0
+118,Parasite,2019,Bong Joon Ho,132,"Comedy, Drama, Thriller            ",8.6,96.0,676270,53.37
+119,Interstellar,2014,Christopher Nolan,169,"Adventure, Drama, Sci-Fi            ",8.6,74.0,1631810,188.02
+120,City of God,2002,Fernando Meirelles,130,"Crime, Drama            ",8.6,79.0,724865,7.56
+121,Spirited Away,2001,Hayao Miyazaki,125,"Animation, Adventure, Family            ",8.6,96.0,699312,10.06
+122,Saving Private Ryan,1998,Steven Spielberg,169,"Drama, War            ",8.6,91.0,1299828,216.54
+123,The Green Mile,1999,Frank Darabont,189,"Crime, Drama, Fantasy            ",8.6,61.0,1210823,136.8
+124,Life Is Beautiful,1997,Roberto Benigni,116,"Comedy, Drama, Romance            ",8.6,59.0,655757,57.6
+125,Se7en,1995,David Fincher,127,"Crime, Drama, Mystery            ",8.6,65.0,1527203,100.13
+126,The Silence of the Lambs,1991,Jonathan Demme,118,"Crime, Drama, Horror            ",8.6,85.0,1340386,130.74
+127,Star Wars: Episode IV - A New Hope,1977,George Lucas,121,"Action, Adventure, Fantasy            ",8.6,90.0,1283157,322.74
+129,Seven Samurai,1954,Akira Kurosawa,207,"Action, Adventure, Drama            ",8.6,98.0,330526,0.27
+131,Whiplash,2014,Damien Chazelle,106,"Drama, Music            ",8.5,88.0,770009,13.09
+132,The Intouchables,2011,Olivier Nakache,112,"Biography, Comedy, Drama            ",8.5,57.0,801782,13.18
+133,The Prestige,2006,Christopher Nolan,130,"Drama, Mystery, Sci-Fi            ",8.5,66.0,1252211,53.09
+134,The Departed,2006,Martin Scorsese,151,"Crime, Drama, Thriller            ",8.5,85.0,1247602,132.38
+135,The Pianist,2002,Roman Polanski,150,"Biography, Drama, Music            ",8.5,85.0,775761,32.57
+136,Gladiator,2000,Ridley Scott,155,"Action, Adventure, Drama            ",8.5,67.0,1407509,187.71
+137,American History X,1998,Tony Kaye,119,Drama            ,8.5,62.0,1071714,6.72
+138,The Usual Suspects,1995,Bryan Singer,106,"Crime, Drama, Mystery            ",8.5,77.0,1033563,23.34
+139,Léon: The Professional,1994,Luc Besson,110,"Action, Crime, Drama            ",8.5,64.0,1088535,19.5
+140,The Lion King,1994,Roger Allers,88,"Animation, Adventure, Drama            ",8.5,88.0,989092,422.78
+141,Terminator 2: Judgment Day,1991,James Cameron,137,"Action, Sci-Fi            ",8.5,75.0,1038625,204.84
+142,Cinema Paradiso,1988,Giuseppe Tornatore,155,"Drama, Romance            ",8.5,80.0,246863,11.99
+144,Back to the Future,1985,Robert Zemeckis,116,"Adventure, Comedy, Sci-Fi            ",8.5,87.0,1119879,210.61
+145,Once Upon a Time in the West,1968,Sergio Leone,165,Western            ,8.5,80.0,315851,5.32
+146,Psycho,1960,Alfred Hitchcock,109,"Horror, Mystery, Thriller            ",8.5,97.0,634922,32.0
+148,Rear Window,1954,Alfred Hitchcock,112,"Mystery, Thriller            ",8.5,100.0,468018,36.76
+149,Casablanca,1942,Michael Curtiz,102,"Drama, Romance, War            ",8.5,100.0,545364,1.02
+150,The Shawshank Redemption,1994,Frank Darabont,142,Drama            ,9.3,80.0,2480727,28.34
+151,The Godfather,1972,Francis Ford Coppola,175,"Crime, Drama            ",9.2,100.0,1713388,134.97
+152,The Dark Knight,2008,Christopher Nolan,152,"Action, Crime, Drama            ",9.0,84.0,2435080,534.86
+153,The Godfather: Part II,1974,Francis Ford Coppola,202,"Crime, Drama            ",9.0,90.0,1190161,57.3
+154,12 Angry Men,1957,Sidney Lumet,96,"Crime, Drama            ",9.0,96.0,734230,4.36
+155,The Lord of the Rings: The Return of the King,2003,Peter Jackson,201,"Action, Adventure, Drama            ",8.9,94.0,1718951,377.85
+156,Pulp Fiction,1994,Quentin Tarantino,154,"Crime, Drama            ",8.9,94.0,1920065,107.93
+157,Schindler's List,1993,Steven Spielberg,195,"Biography, Drama, History            ",8.9,94.0,1273515,96.9
+158,Inception,2010,Christopher Nolan,148,"Action, Adventure, Sci-Fi            ",8.8,74.0,2185204,292.58
+159,Fight Club,1999,David Fincher,139,Drama            ,8.8,66.0,1954752,37.03
+160,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,178,"Action, Adventure, Drama            ",8.8,92.0,1740226,315.54
+161,Forrest Gump,1994,Robert Zemeckis,142,"Drama, Romance            ",8.8,82.0,1918121,330.25
+162,"The Good, the Bad and the Ugly",1966,Sergio Leone,178,Western            ,8.8,90.0,721512,6.1
+163,The Lord of the Rings: The Two Towers,2002,Peter Jackson,179,"Action, Adventure, Drama            ",8.7,87.0,1554016,342.55
+164,The Matrix,1999,Lana Wachowski,136,"Action, Sci-Fi            ",8.7,73.0,1772635,171.48
+165,Goodfellas,1990,Martin Scorsese,146,"Biography, Crime, Drama            ",8.7,90.0,1076837,46.84
+166,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,124,"Action, Adventure, Fantasy            ",8.7,82.0,1211382,290.48
+167,One Flew Over the Cuckoo's Nest,1975,Milos Forman,133,Drama            ,8.7,84.0,958396,112.0
+168,Parasite,2019,Bong Joon Ho,132,"Comedy, Drama, Thriller            ",8.6,96.0,676270,53.37
+169,Interstellar,2014,Christopher Nolan,169,"Adventure, Drama, Sci-Fi            ",8.6,74.0,1631810,188.02
+170,City of God,2002,Fernando Meirelles,130,"Crime, Drama            ",8.6,79.0,724865,7.56
+171,Spirited Away,2001,Hayao Miyazaki,125,"Animation, Adventure, Family            ",8.6,96.0,699312,10.06
+172,Saving Private Ryan,1998,Steven Spielberg,169,"Drama, War            ",8.6,91.0,1299828,216.54
+173,The Green Mile,1999,Frank Darabont,189,"Crime, Drama, Fantasy            ",8.6,61.0,1210823,136.8
+174,Life Is Beautiful,1997,Roberto Benigni,116,"Comedy, Drama, Romance            ",8.6,59.0,655757,57.6
+175,Se7en,1995,David Fincher,127,"Crime, Drama, Mystery            ",8.6,65.0,1527203,100.13
+176,The Silence of the Lambs,1991,Jonathan Demme,118,"Crime, Drama, Horror            ",8.6,85.0,1340386,130.74
+177,Star Wars: Episode IV - A New Hope,1977,George Lucas,121,"Action, Adventure, Fantasy            ",8.6,90.0,1283157,322.74
+179,Seven Samurai,1954,Akira Kurosawa,207,"Action, Adventure, Drama            ",8.6,98.0,330526,0.27
+181,Whiplash,2014,Damien Chazelle,106,"Drama, Music            ",8.5,88.0,770009,13.09
+182,The Intouchables,2011,Olivier Nakache,112,"Biography, Comedy, Drama            ",8.5,57.0,801782,13.18
+183,The Prestige,2006,Christopher Nolan,130,"Drama, Mystery, Sci-Fi            ",8.5,66.0,1252211,53.09
+184,The Departed,2006,Martin Scorsese,151,"Crime, Drama, Thriller            ",8.5,85.0,1247602,132.38
+185,The Pianist,2002,Roman Polanski,150,"Biography, Drama, Music            ",8.5,85.0,775761,32.57
+186,Gladiator,2000,Ridley Scott,155,"Action, Adventure, Drama            ",8.5,67.0,1407509,187.71
+187,American History X,1998,Tony Kaye,119,Drama            ,8.5,62.0,1071714,6.72
+188,The Usual Suspects,1995,Bryan Singer,106,"Crime, Drama, Mystery            ",8.5,77.0,1033563,23.34
+189,Léon: The Professional,1994,Luc Besson,110,"Action, Crime, Drama            ",8.5,64.0,1088535,19.5
+190,The Lion King,1994,Roger Allers,88,"Animation, Adventure, Drama            ",8.5,88.0,989092,422.78
+191,Terminator 2: Judgment Day,1991,James Cameron,137,"Action, Sci-Fi            ",8.5,75.0,1038625,204.84
+192,Cinema Paradiso,1988,Giuseppe Tornatore,155,"Drama, Romance            ",8.5,80.0,246863,11.99
+194,Back to the Future,1985,Robert Zemeckis,116,"Adventure, Comedy, Sci-Fi            ",8.5,87.0,1119879,210.61
+195,Once Upon a Time in the West,1968,Sergio Leone,165,Western            ,8.5,80.0,315851,5.32
+196,Psycho,1960,Alfred Hitchcock,109,"Horror, Mystery, Thriller            ",8.5,97.0,634922,32.0
+198,Rear Window,1954,Alfred Hitchcock,112,"Mystery, Thriller            ",8.5,100.0,468018,36.76
+199,Casablanca,1942,Michael Curtiz,102,"Drama, Romance, War            ",8.5,100.0,545364,1.02
+200,The Shawshank Redemption,1994,Frank Darabont,142,Drama            ,9.3,80.0,2480727,28.34
+201,The Godfather,1972,Francis Ford Coppola,175,"Crime, Drama            ",9.2,100.0,1713388,134.97
+202,The Dark Knight,2008,Christopher Nolan,152,"Action, Crime, Drama            ",9.0,84.0,2435080,534.86
+203,The Godfather: Part II,1974,Francis Ford Coppola,202,"Crime, Drama            ",9.0,90.0,1190161,57.3
+204,12 Angry Men,1957,Sidney Lumet,96,"Crime, Drama            ",9.0,96.0,734230,4.36
+205,The Lord of the Rings: The Return of the King,2003,Peter Jackson,201,"Action, Adventure, Drama            ",8.9,94.0,1718951,377.85
+206,Pulp Fiction,1994,Quentin Tarantino,154,"Crime, Drama            ",8.9,94.0,1920065,107.93
+207,Schindler's List,1993,Steven Spielberg,195,"Biography, Drama, History            ",8.9,94.0,1273515,96.9
+208,Inception,2010,Christopher Nolan,148,"Action, Adventure, Sci-Fi            ",8.8,74.0,2185204,292.58
+209,Fight Club,1999,David Fincher,139,Drama            ,8.8,66.0,1954752,37.03
+210,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,178,"Action, Adventure, Drama            ",8.8,92.0,1740226,315.54
+211,Forrest Gump,1994,Robert Zemeckis,142,"Drama, Romance            ",8.8,82.0,1918121,330.25
+212,"The Good, the Bad and the Ugly",1966,Sergio Leone,178,Western            ,8.8,90.0,721512,6.1
+213,The Lord of the Rings: The Two Towers,2002,Peter Jackson,179,"Action, Adventure, Drama            ",8.7,87.0,1554016,342.55
+214,The Matrix,1999,Lana Wachowski,136,"Action, Sci-Fi            ",8.7,73.0,1772635,171.48
+215,Goodfellas,1990,Martin Scorsese,146,"Biography, Crime, Drama            ",8.7,90.0,1076837,46.84
+216,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,124,"Action, Adventure, Fantasy            ",8.7,82.0,1211382,290.48
+217,One Flew Over the Cuckoo's Nest,1975,Milos Forman,133,Drama            ,8.7,84.0,958396,112.0
+218,Parasite,2019,Bong Joon Ho,132,"Comedy, Drama, Thriller            ",8.6,96.0,676270,53.37
+219,Interstellar,2014,Christopher Nolan,169,"Adventure, Drama, Sci-Fi            ",8.6,74.0,1631810,188.02
+220,City of God,2002,Fernando Meirelles,130,"Crime, Drama            ",8.6,79.0,724865,7.56
+221,Spirited Away,2001,Hayao Miyazaki,125,"Animation, Adventure, Family            ",8.6,96.0,699312,10.06
+222,Saving Private Ryan,1998,Steven Spielberg,169,"Drama, War            ",8.6,91.0,1299828,216.54
+223,The Green Mile,1999,Frank Darabont,189,"Crime, Drama, Fantasy            ",8.6,61.0,1210823,136.8
+224,Life Is Beautiful,1997,Roberto Benigni,116,"Comedy, Drama, Romance            ",8.6,59.0,655757,57.6
+225,Se7en,1995,David Fincher,127,"Crime, Drama, Mystery            ",8.6,65.0,1527203,100.13
+226,The Silence of the Lambs,1991,Jonathan Demme,118,"Crime, Drama, Horror            ",8.6,85.0,1340386,130.74
+227,Star Wars: Episode IV - A New Hope,1977,George Lucas,121,"Action, Adventure, Fantasy            ",8.6,90.0,1283157,322.74
+229,Seven Samurai,1954,Akira Kurosawa,207,"Action, Adventure, Drama            ",8.6,98.0,330526,0.27
+231,Whiplash,2014,Damien Chazelle,106,"Drama, Music            ",8.5,88.0,770009,13.09
+232,The Intouchables,2011,Olivier Nakache,112,"Biography, Comedy, Drama            ",8.5,57.0,801782,13.18
+233,The Prestige,2006,Christopher Nolan,130,"Drama, Mystery, Sci-Fi            ",8.5,66.0,1252211,53.09
+234,The Departed,2006,Martin Scorsese,151,"Crime, Drama, Thriller            ",8.5,85.0,1247602,132.38
+235,The Pianist,2002,Roman Polanski,150,"Biography, Drama, Music            ",8.5,85.0,775761,32.57
+236,Gladiator,2000,Ridley Scott,155,"Action, Adventure, Drama            ",8.5,67.0,1407509,187.71
+237,American History X,1998,Tony Kaye,119,Drama            ,8.5,62.0,1071714,6.72
+238,The Usual Suspects,1995,Bryan Singer,106,"Crime, Drama, Mystery            ",8.5,77.0,1033563,23.34
+239,Léon: The Professional,1994,Luc Besson,110,"Action, Crime, Drama            ",8.5,64.0,1088535,19.5
+240,The Lion King,1994,Roger Allers,88,"Animation, Adventure, Drama            ",8.5,88.0,989092,422.78
+241,Terminator 2: Judgment Day,1991,James Cameron,137,"Action, Sci-Fi            ",8.5,75.0,1038625,204.84
+242,Cinema Paradiso,1988,Giuseppe Tornatore,155,"Drama, Romance            ",8.5,80.0,246863,11.99
+244,Back to the Future,1985,Robert Zemeckis,116,"Adventure, Comedy, Sci-Fi            ",8.5,87.0,1119879,210.61
+245,Once Upon a Time in the West,1968,Sergio Leone,165,Western            ,8.5,80.0,315851,5.32
+246,Psycho,1960,Alfred Hitchcock,109,"Horror, Mystery, Thriller            ",8.5,97.0,634922,32.0
+248,Rear Window,1954,Alfred Hitchcock,112,"Mystery, Thriller            ",8.5,100.0,468018,36.76
+249,Casablanca,1942,Michael Curtiz,102,"Drama, Romance, War            ",8.5,100.0,545364,1.02
